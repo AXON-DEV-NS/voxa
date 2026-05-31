@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://voxa.ai/</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://voxa.ai/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://voxa.ai/en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://voxa.ai/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://voxa.ai/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://voxa.ai/de"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://voxa.ai/pt"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://voxa.ai/hi"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://voxa.ai/tr"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://voxa.ai/ru"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://voxa.ai/id"/>
+  </url>
+</urlset>
